@@ -1,6 +1,7 @@
 # core_market
 - 关注推特 https://twitter.com/cczzc_eth 非常感谢
-- 社区愿意打赏🙏地址 请发送 0xB178FE6040fe7dB1c7b0219e72C7BaDbCF7A3B0c 
+- 社区愿意打赏🙏地址 请发送
+- 0xB178FE6040fe7dB1c7b0219e72C7BaDbCF7A3B0c 
 ## core dao 铭文市场
 
 - 提前安装好 pgsql postgres://core-market:123456@localhost:5432/core-market
